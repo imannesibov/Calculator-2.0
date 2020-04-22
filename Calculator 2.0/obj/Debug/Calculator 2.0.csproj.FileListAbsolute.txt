@@ -1,0 +1,14 @@
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csprojAssemblyReference.cache
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\App.g.cs
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0_MarkupCompile.cache
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0_MarkupCompile.lref
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\MainWindow.baml
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.g.resources
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator_2._0.Properties.Resources.resources
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csproj.GenerateResource.cache
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+C:\Users\Iman\source\repos\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
